@@ -15,7 +15,7 @@ A mérések egy általam fejlesztett, **automatizált Bash-alapú keretrendszerr
 5. **Rendszer-helyreállítás:** Automatikus "cool-down" periódus a mérések közötti torzítások elkerülése érdekében.
 
 ## Usage / Használat
-A mérések a run_cpu_stress_v3.sh és auto_meres_loop_v5.sh szkriptekkel indíthatóak, amely automatikusan kezeli a teljes ciklust.
+A mérések a run_cpu_stress_v3.sh és run_net_stress_v2.sh szkriptekkel indíthatóak, amely automatikusan kezeli a teljes ciklust.
 További scriptek, amiket az előzőek használnak, vagy utómunkát végeznek, a futások után, amit manuálisan kell indítani.
 Nativ: auto_meres_native_v4.sh
 Fission: auto_meres_loop_v5.sh
